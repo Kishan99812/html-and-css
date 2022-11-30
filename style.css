@@ -1,0 +1,17 @@
+footer{
+    background-image:url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+footer img{
+    border-radius: 50%;
+    
+}
+.scroll1, .scroll2, .scroll3{
+    width: 32%;
+    box-shadow: 0 0 5px;
+    height: 600px;
+    text-align: center;
+    border-radius: 5px;
+}
